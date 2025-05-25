@@ -1,17 +1,9 @@
-# 100Jun
-백준 기초부터 천천히...
+# forCodingTest
+코딩테스트 기초부터 천천히...
 
-### 1w
-- 입출력& 변수 | 조건문 | 반복문 | 1차원 리스트 | 문자열 처리
+### baekjoon
+- StepByStep (https://www.acmicpc.net/step)
+- Algorithm (https://www.acmicpc.net/problem/tags)
 
-### Day1
-- 1157 | 1159 | 2675 | 2941 | 10807 | 10809 | 10988 | 11718 | 14467 | 25083
-
-### Day2
-- 14467_re(복습) | 2563 | 2822 | 1094
-
-### Day3
-- 2563_re(복습) | 2167 | 2566 | 10798
-
-### Day4
-- 2667 | 1012
+### SWEA
+- D1 ~ 단계별로 폴더 분류
